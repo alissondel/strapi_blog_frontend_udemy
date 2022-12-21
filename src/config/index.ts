@@ -1,7 +1,8 @@
 /* eslint-disable */
 
 export default {
-  url: 'https://strapi-landing-pages-project-2.herokuapp.com',
-  siteName: 'Otávio Miranda',
-  defaultSlug: 'landing-page',
+  url: 'http://localhost:1337/api/posts/',
+  siteName: 'Alisson Delatim',
+  defaultSlug: 'porque-uso-do-use-effect',
+  graphqlURL: 'http://localhost:1337/graphql',
 };
